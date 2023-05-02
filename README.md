@@ -1,16 +1,16 @@
-### Hi there 👋
+### Ola pessoal👋
 
 <!--
-**Slvrai/Slvrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Slvrai/Slvrai** é um repositório ✨ _especial_ ✨
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Atualmente estou cursando informatica
+🌱 Atualmente estou aprendendo informatica
+👯 Estou procurando colaborar em Design e informatica
+🤔 Estou procurando ajuda com Informatica e Matematica
+💬 Pergunte-me sobre Portugues
+📫 Como entrar em contato comigo: (insta: Slv_rai)
+😄 Pronomes: Ela\Dela
+⚡ Curiosidade: Sou uma artista que esta procurando novas ideias para o meu futuro
 -->
